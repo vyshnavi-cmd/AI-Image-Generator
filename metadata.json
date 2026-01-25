@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Generator",
+  "description": "Generate stunning images with various artistic styles using the Gemini 2.5 Flash Image (NanoBanana) model.",
+  "requestFramePermissions": []
+}
